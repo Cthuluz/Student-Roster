@@ -15,9 +15,8 @@ int main() {
                                 "A4,Erin,Black,ErSin.black@comcast.net,22,50,58,40,SECURITY",
                                 "A5,Isabel,Nelson,inels19@wgu.edu,28,21,15,19,SOFTWARE" };
 
-    cout << "Course Title: Scripting and Programming - Applications - C867" << endl;
+    cout << "Program Title: Student Roster" << endl;
     cout << "Programming Language: C++" << endl;
-    cout << "Student ID: 010640645" << endl;
     cout << "Name: Isabel Nelson" << endl << endl;
 
     Roster classRoster; 
